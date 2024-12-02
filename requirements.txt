@@ -1,0 +1,14 @@
+aiogram~=2.25.2
+aiohttp~=3.8.6
+openpyxl==3.0.10
+qrcode==7.3.1
+reportlab==3.6.12
+PyPDF2~=3.0.1
+environs~=8.0.0
+fitz~=0.0.1.dev2
+magic-filter
+PyMuPDF
+pypdf~=5.0.1
+asyncpg~=0.30.0
+msoffcrypto-tool~=5.4.2
+aiofiles~=24.1.0
